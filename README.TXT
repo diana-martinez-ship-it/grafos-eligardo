@@ -1,8 +1,4 @@
-Hola profe
-para ejecutar este codigo se necesita tener instalado .net 9.0 y un compilador de python 3 
-Para el documento de c# es necesario ir a la ruta grafos\bin\Release\net9.0\win-x64/grafos.exe
-
-¡Hola profe!
+¡Holiii profe! :)
 
 Para ejecutar este proyecto necesitará:
 - .NET 9.0 instalado (para el programa en C#).
@@ -22,3 +18,4 @@ Notas importantes:
 	- `analysis.py` (en el directorio raíz)
 
 — Diana
+
