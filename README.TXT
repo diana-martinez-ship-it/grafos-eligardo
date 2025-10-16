@@ -1,12 +1,26 @@
 Hola profe
 para ejecutar este codigo se necesita tener instalado .net 9.0 y un compilador de python 3 
 Para el documento de c# es necesario ir a la ruta grafos\bin\Release\net9.0\win-x64/grafos.exe
-y ejecutarlo 
-Ahora bien dado que python es interpretado, para ejecutar el archivo analysis.py sera necesario correrlo en el 
-interprete de python, ya sea en terminal o visual estudio code
 
-NOTA: la clase de Graph.cs esta en el mismo archivo de program.cs 
+¡Hola profe!
 
-La ruta de program.cs es grafos\Program.cs
-la ruta de analysis.py es ./analysis.py
-Profe la neta no le puse .gitignore entonces se vino todo el compilamiento del programa xd, si tiene error pss nomas lo recompila y ya
+Para ejecutar este proyecto necesitará:
+- .NET 9.0 instalado (para el programa en C#).
+- Python 3 instalado (para el script de análisis).
+
+Instrucciones rápidas:
+- El ejecutable de C# se encuentra en: `grafos/bin/Release/net9.0/win-x64/grafos.exe`. Puede ejecutar ese archivo directamente.
+- El script de Python es `analysis.py`. Como Python es interpretado, ejecútelo con su intérprete (por ejemplo en la terminal o desde Visual Studio Code):
+	```bash
+	python3 analysis.py
+	```
+
+Notas importantes:
+- La clase `Graph.cs` está definida dentro de `Program.cs`.
+- Rutas relevantes:
+	- `grafos/Program.cs`
+	- `analysis.py` (en el directorio raíz)
+
+Pequeño detalle: olvidé incluir un `.gitignore` antes, así que se subieron archivos de compilación en el primer commit. Podemos corregir eso: actualizaré `.gitignore` y eliminaré del seguimiento los artefactos compilados para que el repositorio quede limpio.
+
+— Diana

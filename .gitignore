@@ -1,8 +1,10 @@
-.vs
+.vs/
+.vscode/
 bin/
 obj/
 *.exe
 *.dll
+*.pdb
 *.user
 *.suo
 *.DS_Store
