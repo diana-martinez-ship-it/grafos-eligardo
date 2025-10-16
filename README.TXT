@@ -21,6 +21,4 @@ Notas importantes:
 	- `grafos/Program.cs`
 	- `analysis.py` (en el directorio raíz)
 
-Pequeño detalle: olvidé incluir un `.gitignore` antes, así que se subieron archivos de compilación en el primer commit. Podemos corregir eso: actualizaré `.gitignore` y eliminaré del seguimiento los artefactos compilados para que el repositorio quede limpio.
-
 — Diana
