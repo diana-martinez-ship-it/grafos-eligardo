@@ -1,0 +1,10 @@
+.vs
+bin/
+obj/
+*.exe
+*.dll
+*.user
+*.suo
+*.DS_Store
+__pycache__/
+*.pyc
